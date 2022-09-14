@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FilmList-Project/static/css/main.3b008751.css",
-    "main.js": "/FilmList-Project/static/js/main.0196d517.js",
-    "static/js/787.1658907d.chunk.js": "/FilmList-Project/static/js/787.1658907d.chunk.js",
-    "static/media/logo.svg": "/FilmList-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/FilmList-Project/index.html",
-    "main.3b008751.css.map": "/FilmList-Project/static/css/main.3b008751.css.map",
-    "main.0196d517.js.map": "/FilmList-Project/static/js/main.0196d517.js.map",
-    "787.1658907d.chunk.js.map": "/FilmList-Project/static/js/787.1658907d.chunk.js.map"
+    "main.css": "/FilmList-Project-/static/css/main.3b008751.css",
+    "main.js": "/FilmList-Project-/static/js/main.926a828a.js",
+    "static/js/787.1658907d.chunk.js": "/FilmList-Project-/static/js/787.1658907d.chunk.js",
+    "static/media/logo.svg": "/FilmList-Project-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FilmList-Project-/index.html",
+    "main.3b008751.css.map": "/FilmList-Project-/static/css/main.3b008751.css.map",
+    "main.926a828a.js.map": "/FilmList-Project-/static/js/main.926a828a.js.map",
+    "787.1658907d.chunk.js.map": "/FilmList-Project-/static/js/787.1658907d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b008751.css",
-    "static/js/main.0196d517.js"
+    "static/js/main.926a828a.js"
   ]
 }
